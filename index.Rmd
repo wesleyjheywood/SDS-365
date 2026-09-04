@@ -1,0 +1,31 @@
+---
+title: "Wesley Heywood"
+image: "Wes.jpg"
+links:
+  - label: GitHub
+    url: "https://github.com/wesleyjheywood"
+output:
+  postcards::trestles
+---
+
+## About Me
+
+I am a student at the University of Texas at Austin. I have a major in Russian, Eastern European and Eurasian Studies and a minor in Statistics and Data Science. Other interests of mine include oceanography, languages and history. I love watching movies, often Soviet or Russian movies, and going to football games.
+
+## Favorite Bands
+
+*The Chameleons
+
+*Roxy Music
+
+*Talk Talk
+
+*Disco Inferno
+
+*Joy Division / New Order
+
+**Site created:**
+
+```{r, echo = FALSE}
+Sys.time()
+```
